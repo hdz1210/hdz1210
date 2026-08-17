@@ -1,29 +1,40 @@
 <div align="center">
 
-  <!-- ================= DYNAMIC ANIMATED HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=220&section=header&text=HDZ1210&fontSize=65&fontColor=ffffff&desc=BUSINESS%20ANALYST%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20BI%20%E2%80%A2%20MARTECH&descSize=15&animation=twinkling" width="100%" alt="Header Banner" />
-
-  <!-- ================= ANIMATED TYPING SVG (ELECTRIC SKY BLUE) ================= -->
-  <a href="https://github.com/hdz1210">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9E%A4+Business+Analyst+%7C+Strategic+Requirements+%26+BPMN;%E2%9E%A4+Data+Engineer+%7C+Scalable+ETL%2FELT+Pipelines;%E2%9E%A4+BI+Architect+%7C+Power+BI+%26+Executive+Intelligence;%E2%9E%A4+Digital+Marketing+%7C+Tracking%2C+Attribution+%26+Growth;%E2%9E%A4+Turning+Complex+Raw+Data+into+Revenue+Impact" alt="Typing Animation" />
-  </a>
+  <!-- ================= ANIMATION 1: HIGH-TECH CYBER CODER & DATA STREAM BANNER ================= -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Data Stream Banner" />
 
   <br/><br/>
 
+  <!-- ================= BRAND TITLE & VALUE PROPOSITION ================= -->
+  <h1><font color="#38bdf8">⚡ HDZ1210 ⚡</font></h1>
+  <p><b>Business Analyst • Data Engineer • BI Specialist • Digital Marketing Solutions</b></p>
+  <p><i>Turning raw data into scalable pipelines, executive insights & profitable business growth.</i></p>
+
   <!-- ================= STATUS BADGES ================= -->
   <p align="center">
-    <img src="https://img.shields.io/badge/ROLE-BA%20%7C%20DE%20%7C%20BI%20%7C%20MARTECH-38bdf8?style=flat-square&logo=databricks&logoColor=black&labelColor=0d1117" />
-    &nbsp;
     <img src="https://img.shields.io/badge/Location-Vietnam%20🇻🇳%20(UTC%2B7)-0284c7?style=flat-square&logo=googlemaps&logoColor=white" />
     &nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-059669?style=flat-square&logo=gitbook&logoColor=white" />
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=hdz1210&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=hdz1210&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 
-  <!-- ANIMATED NEON DIVIDER -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="2px" />
+  <!-- ANIMATED LASER DIVIDER -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
 
+</div>
+
+---
+
+### 🐍 CONTRIBUTION SNAKE ANIMATION
+
+<div align="center">
+  <p><i>Con rắn chuyển động tự động săn các ô commit xanh trên GitHub</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -175,7 +186,7 @@
   </a>
 
   <br/><br/>
-  <!-- ================= FOOTER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2,0&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <!-- ================= ANIMATED BOTTOM FOOTER ================= -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Cyber Animation" />
 
 </div>
