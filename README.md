@@ -1,30 +1,34 @@
 <div align="center">
 
-  <!-- ================= LUXURY EXECUTIVE HEADER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,2,3,4&height=210&section=header&text=H%E1%BA%A2I%20%C4%90%C4%82NG%20%E2%80%A2%20HDZ1210&fontSize=46&fontColor=ffffff&desc=Business%20Analyst%20%7C%20Data%20Engineer%20%7C%20BI%20%7C%20Digital%20Marketing%20Solutions&descSize=15&animation=fadeIn" width="100%" alt="Profile Header" />
+  <!-- ================= DYNAMIC ANIMATED HEADER BANNER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=220&section=header&text=HDZ1210&fontSize=65&fontColor=ffffff&desc=BUSINESS%20ANALYST%20%E2%80%A2%20DATA%20ENGINEER%20%E2%80%A2%20BI%20%E2%80%A2%20MARTECH&descSize=15&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <br/>
+  <!-- ================= ANIMATED TYPING SVG (ELECTRIC SKY BLUE) ================= -->
+  <a href="https://github.com/hdz1210">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9E%A4+Business+Analyst+%7C+Strategic+Requirements+%26+BPMN;%E2%9E%A4+Data+Engineer+%7C+Scalable+ETL%2FELT+Pipelines;%E2%9E%A4+BI+Architect+%7C+Power+BI+%26+Executive+Intelligence;%E2%9E%A4+Digital+Marketing+%7C+Tracking%2C+Attribution+%26+Growth;%E2%9E%A4+Turning+Complex+Raw+Data+into+Revenue+Impact" alt="Typing Animation" />
+  </a>
 
-  <!-- ================= SUBTITLE & VALUE STATEMENT ================= -->
-  <h2>🚀 <font color="#38bdf8">Architecting Data-Driven Business Solutions</font> 🚀</h2>
-  <p><b>Transforming complex business challenges into scalable data pipelines, executive BI dashboards & automated growth marketing architectures.</b></p>
+  <br/><br/>
 
-  <!-- ================= QUICK STATUS PILLS ================= -->
+  <!-- ================= STATUS BADGES ================= -->
   <p align="center">
+    <img src="https://img.shields.io/badge/ROLE-BA%20%7C%20DE%20%7C%20BI%20%7C%20MARTECH-38bdf8?style=flat-square&logo=databricks&logoColor=black&labelColor=0d1117" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Location-Vietnam%20🇻🇳%20(UTC%2B7)-0284c7?style=flat-square&logo=googlemaps&logoColor=white" />
     &nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-059669?style=flat-square&logo=gitbook&logoColor=white" />
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=hdz1210&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=hdz1210&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 
-  <br/>
+  <!-- ANIMATED NEON DIVIDER -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="2px" />
 
 </div>
 
 ---
 
-### 🏛️ CORE VALUE PILLARS & DOMAIN EXPERTISE
+### 🏛️ CORE DOMAIN PILLARS & EXPERTISE
 
 <table>
   <tr>
@@ -34,7 +38,7 @@
         <li><b>Requirement Engineering:</b> BRD, FRD, PRD & User Stories.</li>
         <li><b>Process Modeling:</b> BPMN 2.0, UML & Gap Analysis.</li>
         <li><b>Strategy & Roadmapping:</b> Agile/Scrum product management.</li>
-        <li><b>Stakeholder Alignment:</b> Bridging C-Level vision with Dev teams.</li>
+        <li><b>Stakeholder Alignment:</b> Bridging Business & Tech teams.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -87,7 +91,7 @@
 
 <div align="center">
 
-  <!-- Skill Icons Grid -->
+  <!-- Interactive Skill Icons Grid -->
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,gcp,aws,docker,git,github,figma,postman,vscode,linux" alt="Skill Icons" />
@@ -172,6 +176,6 @@
 
   <br/><br/>
   <!-- ================= FOOTER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=4,3,2,1&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2,0&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
